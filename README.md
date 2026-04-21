@@ -1,16 +1,34 @@
-# Pacific GuestHub - Sistema de Reservas
+Pacific GuestHub - Front-end & UX Prototypes
 
-Este repositorio contiene la planificación ágil y documentación técnica para el proyecto **Pacific GuestHub**, diseñado para automatizar los procesos de reserva del **Hotel Pacific Reef**.
+Rama: front-end-prototypes
 
-## 🛠️ Metodología
-Se ha implementado el marco de trabajo **Scrum**, distribuyendo el desarrollo en **3 Sprints** de una semana cada uno para cumplir con el plazo de entrega de 21 días.
+Este apartado del repositorio está dedicado exclusivamente al diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) de alta fidelidad para el sistema Pacific GuestHub. El enfoque de esta iteración ha sido la usabilidad, la consistencia visual y la adaptabilidad bilingüe.
 
-## 🔗 Tablero de Gestión Ágil (Trello)
-Puedes visualizar el flujo de trabajo, el Product Backlog y el progreso de los Sprints en el siguiente enlace:
-👉 **[Ver Tablero de Trello aquí](https://trello.com/b/SioPgKbr/pacific-guesthub)**
+🚀 Tecnologías y Herramientas
+Diseño: Figma AI (High Fidelity Mockups).
 
-## 📂 Archivos Adjuntos (Próximamente)
-Aquí se subirán los archivos solicitados:
-* Planilla Sprint Backlog (Excel)
-* Planilla RoadMap (Excel)
-* Informe Project Burndown (Word)
+Arquitectura: Componentes desacoplados (Front-end en React.js).
+
+Estándar: UML 2.0 para el diagrama de componentes.
+
+🖼️ Prototipos de Alta Resolución
+Se han diseñado 4 pantallas clave que cubren el flujo completo de reserva y administración:
+
+Landing Page & Buscador: Interfaz bilingüe (ES/EN) con selector de fechas interactivo.
+
+Catálogo de Habitaciones: Grilla responsiva con filtros avanzados para las 38 habitaciones (Turista/Premium).
+
+Resumen de Reserva (Checkout): Desglose transparente de precios y cálculo automatizado del abono del 30%.
+
+Dashboard de Administrador (Vista Han Solo): Panel de control para gestión de tarifas y métricas de ocupación en tiempo real.
+
+🔗 Acceso a los Diseños
+Para visualizar las interacciones y el prototipo navegable, puedes acceder a través del siguiente enlace:
+👉 Ver Prototipo Interactivo en Figma
+
+📂 Contenido de la Rama
+/src/ux-models: Archivos fuente del modelo de alta resolución.
+
+/docs/diagrams: Diagrama de componentes (Front-end vs Back-end).
+
+README.md: Documentación de la capa de presentación.
