@@ -1,30 +1,37 @@
-# Pacific GuestHub - Front-end & UX Prototypes
+# 🏨 Pacific GuestHub - Sistema de Reservas
 
-Rama: front-end-prototypes
+Este repositorio contiene la **Propuesta de Diseño y Arquitectura** para el sistema de automatización de reservas del **Hotel Pacific Reef**. El proyecto aplica metodologías ágiles y estándares de ingeniería de software para gestionar un inventario de 38 habitaciones.
 
-Este apartado del repositorio está dedicado exclusivamente al diseño de la experiencia de usuario (UX) y la interfaz de usuario (UI) de alta fidelidad para el sistema Pacific GuestHub. El enfoque de esta iteración ha sido la usabilidad, la consistencia visual y la adaptabilidad bilingüe.
+## 🏗️ Arquitectura y Modelado UML 2.0
+Se ha diseñado una arquitectura desacoplada para garantizar escalabilidad y mantenibilidad. Los artefactos de diseño incluyen:
 
-## 🚀 Tecnologías y Herramientas
-Diseño: Figma AI (High Fidelity Mockups).
+* **Vista Funcional:** Diagrama de Casos de Uso (Turista, Administrador y Sistema de Pago).
+* **Vista de Proceso:** Diagrama de Actividades para el flujo de reserva y abono del 30%.
+* **Vista de Comportamiento:** Diagrama de Estados para el ciclo de vida de las habitaciones.
+* **Vista Lógica:** Diagrama de Secuencia y Diagrama de Componentes (Front-end vs Back-end).
 
-Arquitectura: Componentes desacoplados (Front-end en React.js).
+## 🎨 Prototipos de Alta Fidelidad (UX/UI)
+La interfaz ha sido diseñada en Figma bajo principios de usabilidad y diseño responsivo, incluyendo soporte bilingüe (ES/EN):
+👉 **[Ver Prototipo Interactivo en Figma]([PEGA_AQUÍ_TU_LINK_DE_FIGMA])**
 
-Estándar: UML 2.0 para el diagrama de componentes.
+* **Landing Page:** Buscador con calendario interactivo.
+* **Catálogo:** Grilla de habitaciones (Turista y Premium).
+* **Checkout:** Desglose de precios y cálculo de abono del 30%.
+* **Admin Dashboard:** Panel de gestión para Han Solo.
 
-## 🖼️ Prototipos de Alta Resolución
-Se han diseñado 4 pantallas clave que cubren el flujo completo de reserva y administración:
+## 📊 Gestión del Proyecto (Scrum)
+El desarrollo se gestiona bajo el marco de trabajo Scrum, con visibilidad completa del progreso y los hitos:
 
-Landing Page & Buscador: Interfaz bilingüe (ES/EN) con selector de fechas interactivo.
+* 📌 **[Tablero de Trello Público]([PEGA_AQUÍ_TU_LINK_DE_TRELLO])**
+* 📂 **[Carpeta de Evidencias (Google Drive DuocUC)]([PEGA_AQUÍ_TU_LINK_DE_DRIVE])**
 
-Catálogo de Habitaciones: Grilla responsiva con filtros avanzados para las 38 habitaciones (Turista/Premium).
+## 🛠️ Stack Tecnológico Proyectado
+* **Front-end:** React.js + Vite.
+* **Back-end:** Node.js (Firebase Cloud Functions).
+* **Base de Datos:** Cloud Firestore (NoSQL).
+* **Control de Versiones:** Git / GitHub.
 
-Resumen de Reserva (Checkout): Desglose transparente de precios y cálculo automatizado del abono del 30%.
-
-Dashboard de Administrador (Vista Han Solo): Panel de control para gestión de tarifas y métricas de ocupación en tiempo real.
-
-## 📂 Contenido de la Rama
-/src/ux-models: Archivos fuente del modelo de alta resolución.
-
-/docs/diagrams: Diagrama de componentes (Front-end vs Back-end).
-
-README.md: Documentación de la capa de presentación.
+## 📂 Estructura del Repositorio
+* `/docs`: Documentación técnica y diagramas UML.
+* `/design`: Recursos de diseño y capturas de prototipos.
+* `/src`: Código base inicial del proyecto.
