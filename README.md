@@ -12,7 +12,7 @@ Se ha diseñado una arquitectura desacoplada para garantizar escalabilidad y man
 
 ## 🎨 Prototipos de Alta Fidelidad (UX/UI)
 La interfaz ha sido diseñada en Figma bajo principios de usabilidad y diseño responsivo, incluyendo soporte bilingüe (ES/EN):
-👉 **[Ver Prototipo Interactivo en Figma]([PEGA_AQUÍ_TU_LINK_DE_FIGMA])**
+👉 **[Ver Prototipo Interactivo en Figma]([https://www.figma.com/make/yDTqM6KEFHWJRav9zrG7xz/High-Fidelity-Landing-Page-Wireframe?p=f&t=X8LJL12CepR1rXXs-0&preview-route=%2Frooms])**
 
 * **Landing Page:** Buscador con calendario interactivo.
 * **Catálogo:** Grilla de habitaciones (Turista y Premium).
@@ -22,8 +22,8 @@ La interfaz ha sido diseñada en Figma bajo principios de usabilidad y diseño r
 ## 📊 Gestión del Proyecto (Scrum)
 El desarrollo se gestiona bajo el marco de trabajo Scrum, con visibilidad completa del progreso y los hitos:
 
-* 📌 **[Tablero de Trello Público]([PEGA_AQUÍ_TU_LINK_DE_TRELLO])**
-* 📂 **[Carpeta de Evidencias (Google Drive DuocUC)]([PEGA_AQUÍ_TU_LINK_DE_DRIVE])**
+* 📌 **[Tablero de Trello Público]([https://trello.com/b/SioPgKbr/pacific-guesthub])**
+* 📂 **[Carpeta de Evidencias (Google Drive DuocUC)]([https://drive.google.com/drive/folders/19jYYwAy59y2QotyL43R9vP-En0-BmgWO?hl=es-419])**
 
 ## 🛠️ Stack Tecnológico Proyectado
 * **Front-end:** React.js + Vite.
