@@ -12,7 +12,7 @@ Se ha diseñado una arquitectura desacoplada para garantizar escalabilidad y man
 
 ## 🎨 Prototipos de Alta Fidelidad (UX/UI)
 La interfaz ha sido diseñada en Figma bajo principios de usabilidad y diseño responsivo, incluyendo soporte bilingüe (ES/EN):
-👉 **[Ver Prototipo Interactivo en Figma]([https://www.figma.com/make/yDTqM6KEFHWJRav9zrG7xz/High-Fidelity-Landing-Page-Wireframe?p=f&t=X8LJL12CepR1rXXs-0&preview-route=%2Frooms])**
+👉 **[Ver Prototipo Interactivo en Figma](https://www.figma.com/make/yDTqM6KEFHWJRav9zrG7xz/High-Fidelity-Landing-Page-Wireframe?p=f&t=X8LJL12CepR1rXXs-0&preview-route=%2Frooms)**
 
 * **Landing Page:** Buscador con calendario interactivo.
 * **Catálogo:** Grilla de habitaciones (Turista y Premium).
