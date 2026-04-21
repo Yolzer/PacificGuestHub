@@ -22,8 +22,8 @@ La interfaz ha sido diseñada en Figma bajo principios de usabilidad y diseño r
 ## 📊 Gestión del Proyecto (Scrum)
 El desarrollo se gestiona bajo el marco de trabajo Scrum, con visibilidad completa del progreso y los hitos:
 
-* 📌 **[Tablero de Trello Público]([https://trello.com/b/SioPgKbr/pacific-guesthub])**
-* 📂 **[Carpeta de Evidencias (Google Drive DuocUC)]([https://drive.google.com/drive/folders/19jYYwAy59y2QotyL43R9vP-En0-BmgWO?hl=es-419])**
+* 📌 **[Tablero de Trello Público](https://trello.com/b/SioPgKbr/pacific-guesthub)**
+* 📂 **[Carpeta de Evidencias (Google Drive DuocUC)](https://drive.google.com/drive/folders/19jYYwAy59y2QotyL43R9vP-En0-BmgWO?hl=es-419)**
 
 ## 🛠️ Stack Tecnológico Proyectado
 * **Front-end:** React.js + Vite.
